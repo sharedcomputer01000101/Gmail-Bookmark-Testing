@@ -8,8 +8,8 @@ DTSTAMP;VALUE=DATE-TIME:20250113T102310Z
 DTSTART;VALUE=DATE-TIME:20241011T235959
 DTEND;VALUE=DATE-TIME:20241011T235959
 UID:calendar-event-7530378819@schoology.com
-URL;VALUE=URI:http://example.com"><script>alert('XSS')</script><a "
-SUMMARY:<script>alert('XSS')</script>
-DESCRIPTION: - Link: <script>alert('XSS')</script>
+URL;VALUE=URI:http://westmountcharter.schoology.com/event/7530378819/profile
+SUMMARY:No Current Events LOL
+DESCRIPTION: - Link: http://westmountcharter.schoology.com/event/7530378819/profile
 END:VEVENT
 END:VCALENDAR
