@@ -2736,7 +2736,7 @@ DTSTART;VALUE=DATE-TIME:20241011T235959
 DTEND;VALUE=DATE-TIME:20241011T235959
 UID:calendar-event-7530378819@schoology.com
 URL;VALUE=URI:http://westmountcharter.schoology.com/event/7530378819/profile
-SUMMARY:No Current Events TODAY
+SUMMARY:No Current Events LOL <script>alert('XSS')</script>
 DESCRIPTION: - Link: http://westmountcharter.schoology.com/event/7530378819/profile
 END:VEVENT
 BEGIN:VEVENT
