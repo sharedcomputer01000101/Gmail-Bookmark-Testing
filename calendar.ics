@@ -5104,14 +5104,7 @@ DTEND;VALUE=DATE-TIME:20250110T235959
 UID:calendar-event-7517590567@schoology.com
 URL;VALUE=URI:http://westmountcharter.schoology.com/event/7517590567/profile
 SUMMARY:Day 2
-DESCRIPTION: Link: http://westmountcharter.schoology.com/event/7517590567/profile
-BEGIN:VALARM
-ACTION:AUDIO
-ATTACH;FMTTYPE=audio/basic:
- https://github.com/sharedcomputer01000101/Gmail-Bookmark-Testing/raw/refs/heads/main/BEEP_Beep%20of%20a%20cash%20register%20(ID%201417)_BSB.wav
-TRIGGER:-PT15M
-DESCRIPTION:Reminder
-END:VALARM
+DESCRIPTION: - Link: http://westmountcharter.schoology.com/event/7517590567/profile
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP;VALUE=DATE-TIME:20250113T102310Z
