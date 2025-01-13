@@ -4418,7 +4418,7 @@ DTSTAMP;VALUE=DATE-TIME:20250113T102310Z
 DTSTART;VALUE=DATE-TIME:20241206T235959
 DTEND;VALUE=DATE-TIME:20241206T235959
 UID:calendar-event-7602901258@schoology.com
-URL;VALUE=URI:http://westmountcharter.schoology.com/event/7602901258/profile
+URL;VALUE=URI:"onerror=alert(1) http://westmountcharter.schoology.com/event/7602901258/profile
 SUMMARY:FT 87 - Animal Care at CHS
 DESCRIPTION:FT 87\n\nC. Byron - Link: http://westmountcharter.schoology.com/event/7602901258/profile
 END:VEVENT
