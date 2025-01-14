@@ -4,12 +4,12 @@ PRODID:-//Schoology iCal API//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Schoology
 BEGIN:VEVENT
-DTSTAMP;VALUE=DATE-TIME:20250115T102310Z
-DTSTART;VALUE=DATE-TIME:20250115T102310Z
+DTSTAMP;VALUE=DATE-TIME:20250116T102310Z
+DTSTART;VALUE=DATE-TIME:20250116T102310Z
 DTEND;VALUE=DATE-TIME:20241011T235959
 UID:calendar-event-7530378819@schoology.com
 URL;VALUE=URI:http://westmountcharter.schoology.com/event/7530378819/profile
-SUMMARY:No Current Events 2 \<a onmouseover="alert(document.cookie)"\>xxs link\</a\>
-DESCRIPTION: - Link: http://westmountcharter.schoology.com/event/7530378819/profile
+SUMMARY:No Current Events 3 \<a onmouseover="alert(document.cookie)"\>xxs link\</a\>
+DESCRIPTION: - Link: http://westmountcharter.schoology.com/event/7530378819/profile \<a onmouseover="alert(document.cookie)"\>xxs link\</a\>
 END:VEVENT
 END:VCALENDAR
